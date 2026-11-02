@@ -1,0 +1,6 @@
+{
+  "name": "ATS Resume Studio & AI Optimizer",
+  "description": "ATS-compliant resume builder, interactive editor, vector PDF exporter, and AI job description optimizer tailored for 90+ ATS score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
